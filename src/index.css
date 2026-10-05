@@ -29,7 +29,7 @@ body {
       rgba(219, 229, 241, 0.86),
       rgba(219, 229, 241, 0.86)
     ),
-    url("dg intern logo.jpeg");
+    url("/dg intern logo.jpeg");
 
   background-repeat: no-repeat;
   background-position: center;
